@@ -2,7 +2,7 @@
 
 ---
 
-### 1. Executive Summary
+## 1. Executive Summary
 
 This project analyzes a project management dataset representing software/operations workflows across teams, clients, and project managers.
 
