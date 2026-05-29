@@ -1,0 +1,501 @@
+employee_id,first_name,last_name,email,department,role,location,hire_date,salary,status,performance_score,years_experience,certifications
+770487,Alex,Walker,emp770487@nexaworks.io,Product,Product Manager,New York,2023-04-26,127097,Terminated,3.4,3,GCP
+133326,Nina,Brown,emp133326@nexaworks.io,Engineering,Software Engineer,London,2017-06-14,115990,Active,3.8,21,CISSP
+539898,Fatima,Thompson,emp539898@nexaworks.io,Marketing,Brand Manager,Singapore,2021-08-10,127926,Terminated,3.4,9,AWS
+325772,Yuki,Young,emp325772@nexaworks.io,Finance,Financial Analyst,New York,2016-01-15,154595,Contract,3.3,9,PMP
+865179,Yuki,Hall,emp865179@nexaworks.io,Operations,Operations Analyst,Berlin,2019-03-31,75656,Contract,2.2,7,Scrum Master
+148050,Carlos,Robinson,emp148050@nexaworks.io,Marketing,Growth Analyst,Dubai,2015-11-23,116024,Active,3.0,21,None
+270555,Sofia,Walker,emp270555@nexaworks.io,Finance,Controller,New York,2017-05-08,124986,Terminated,3.1,8,AWS
+584714,Kevin,Patel,emp584714@nexaworks.io,HR,People Ops Specialist,San Francisco,2022-03-06,201001,Active,2.4,8,PMP
+944151,Liam,Tanaka,emp944151@nexaworks.io,Finance,Finance Manager,Dubai,2018-01-01,72350,Active,3.8,13,CPA
+249811,Ethan,Clark,emp249811@nexaworks.io,Sales,Sales Manager,London,2017-10-07,202159,Terminated,5.0,19,GCP
+479580,Sofia,Clark,emp479580@nexaworks.io,Marketing,Content Strategist,New York,2020-09-18,184372,Terminated,3.6,20,Scrum Master
+503457,James,Garcia,emp503457@nexaworks.io,HR,HR Manager,Remote,2020-12-07,120906,Contract,3.5,22,CISSP
+887352,Carlos,Lewis,emp887352@nexaworks.io,Sales,Business Dev Rep,Remote,2016-04-01,131939,Terminated,2.7,6,CISSP
+211579,Ryan,Lewis,emp211579@nexaworks.io,Sales,Sales Manager,Singapore,2016-09-18,153019,On Leave,3.7,1,None
+612340,Chen,Tanaka,emp612340@nexaworks.io,Engineering,Software Engineer,London,2019-01-26,135612,Active,3.4,3,CISSP
+903035,Carlos,Lewis,emp903035@nexaworks.io,Design,UI Designer,Remote,2022-05-26,179592,Active,3.9,20,GCP
+322086,Noah,Garcia,emp322086@nexaworks.io,Data,Data Engineer,San Francisco,2022-12-30,136714,On Leave,2.6,8,None
+167136,James,Kim,emp167136@nexaworks.io,Finance,Financial Analyst,San Francisco,2021-08-06,200207,Active,4.0,21,PMP
+340062,Omar,Hall,emp340062@nexaworks.io,Product,Product Manager,Austin,2018-09-15,73574,On Leave,2.8,19,CPA
+354801,Yuki,Clark,emp354801@nexaworks.io,Operations,Scrum Master,New York,2017-02-18,79726,Active,3.3,14,CPA
+864491,Liam,Walker,emp864491@nexaworks.io,Engineering,Software Engineer,New York,2015-09-06,160544,Active,3.2,15,AWS
+542374,Noah,Walker,emp542374@nexaworks.io,Design,Design Lead,Dubai,2020-03-09,120485,Active,2.2,4,PMP
+783823,Alex,Patel,emp783823@nexaworks.io,Data,Data Analyst,San Francisco,2016-01-18,116965,Active,3.8,6,GCP
+102260,Amara,Walker,emp102260@nexaworks.io,HR,People Ops Specialist,San Francisco,2023-10-17,174277,Terminated,4.1,22,CPA
+262316,Maria,Hall,emp262316@nexaworks.io,Marketing,Growth Analyst,Toronto,2017-06-10,70331,Active,2.6,16,CISSP
+994141,Chen,Young,emp994141@nexaworks.io,Data,Data Engineer,New York,2015-08-21,188124,Active,3.0,3,None
+523389,David,Davis,emp523389@nexaworks.io,Product,Senior PM,London,2021-06-29,65418,On Leave,2.9,7,None
+350280,Sera,Kim,emp350280@nexaworks.io,Sales,Solutions Engineer,Austin,2016-06-20,133642,Contract,2.9,1,CPA
+751332,Alex,Ali,emp751332@nexaworks.io,QA,QA Engineer,Remote,2015-10-28,195937,Active,3.5,12,None
+265409,Nina,Müller,emp265409@nexaworks.io,Operations,Ops Manager,New York,2021-11-10,193658,Contract,3.9,22,Scrum Master
+240814,Liam,Davis,emp240814@nexaworks.io,Sales,Account Executive,San Francisco,2016-03-14,200024,Active,3.7,17,CPA
+363319,James,Thompson,emp363319@nexaworks.io,Engineering,Software Engineer,Sydney,2022-02-11,166037,Active,3.9,5,None
+269430,Nina,Patel,emp269430@nexaworks.io,Operations,Scrum Master,Toronto,2021-04-16,57534,Active,4.7,12,CISSP
+255287,Nadia,Patel,emp255287@nexaworks.io,HR,Recruiter,San Francisco,2015-06-21,135808,Contract,4.5,12,None
+815198,Sera,Ali,emp815198@nexaworks.io,Marketing,Marketing Manager,Berlin,2018-12-19,201770,Active,3.9,6,AWS
+532322,Ines,Ali,emp532322@nexaworks.io,Engineering,Senior Engineer,Singapore,2023-04-05,142080,Active,2.9,9,AWS
+925622,Kevin,Ali,emp925622@nexaworks.io,Product,Associate PM,Austin,2015-06-08,178388,Active,3.6,8,PMP
+792094,Carlos,Nguyen,emp792094@nexaworks.io,Marketing,Brand Manager,Dubai,2018-09-06,128034,Contract,4.7,21,CISSP
+519093,Maria,Garcia,emp519093@nexaworks.io,Data,Data Scientist,London,2015-04-24,85236,Active,3.8,20,GCP
+462479,Liam,Davis,emp462479@nexaworks.io,Finance,Finance Manager,New York,2021-10-19,189066,On Leave,3.0,2,GCP
+101773,Mei,Garcia,emp101773@nexaworks.io,Data,Data Engineer,San Francisco,2019-01-31,168062,Active,4.3,10,CISSP
+424308,Fatima,Martinez,emp424308@nexaworks.io,HR,People Ops Specialist,London,2019-07-07,132504,Active,3.8,22,AWS
+745414,Ethan,Young,emp745414@nexaworks.io,QA,Quality Manager,San Francisco,2019-07-22,198638,Contract,3.7,21,None
+587575,Alex,Chen,emp587575@nexaworks.io,Operations,Scrum Master,London,2022-07-30,111020,Contract,2.9,22,Scrum Master
+397571,Maria,Ali,emp397571@nexaworks.io,Data,Data Scientist,New York,2016-01-18,116569,Active,3.2,16,Scrum Master
+577538,Omar,Johnson,emp577538@nexaworks.io,HR,Recruiter,Austin,2023-01-21,155657,Active,3.0,4,GCP
+329471,Noah,Lewis,emp329471@nexaworks.io,Design,Visual Designer,Austin,2015-07-25,201120,Contract,3.4,18,None
+891937,Amara,Tanaka,emp891937@nexaworks.io,Operations,Scrum Master,Austin,2024-04-25,198621,Active,4.8,15,None
+888295,Elena,Ali,emp888295@nexaworks.io,Marketing,Growth Analyst,Austin,2023-08-03,191655,Terminated,2.9,9,None
+435239,Omar,Brown,emp435239@nexaworks.io,Data,Data Analyst,San Francisco,2016-07-20,94539,Terminated,3.5,3,GCP
+527398,Marcus,Johnson,emp527398@nexaworks.io,Finance,Finance Manager,Remote,2019-08-31,71322,On Leave,3.6,19,GCP
+600149,Fatima,Walker,emp600149@nexaworks.io,Engineering,Lead Engineer,Sydney,2018-05-08,157232,Contract,4.1,18,None
+611945,Amara,Chen,emp611945@nexaworks.io,Marketing,Growth Analyst,Berlin,2019-11-21,182308,Active,4.0,15,AWS
+752483,Daniel,Clark,emp752483@nexaworks.io,Data,Data Analyst,Berlin,2019-06-02,202951,Active,3.5,5,CPA
+290556,Carlos,Clark,emp290556@nexaworks.io,Engineering,Lead Engineer,Singapore,2019-04-02,140813,Active,3.5,9,Scrum Master
+593152,Ryan,Patel,emp593152@nexaworks.io,Engineering,DevOps Engineer,San Francisco,2015-08-02,146740,Active,4.0,1,None
+309044,Noah,Davis,emp309044@nexaworks.io,Engineering,DevOps Engineer,London,2016-09-16,117533,Active,4.1,12,AWS
+735324,Ethan,Johnson,emp735324@nexaworks.io,QA,QA Engineer,Remote,2023-09-21,97930,Active,4.1,10,GCP
+515922,Ines,Garcia,emp515922@nexaworks.io,Marketing,Marketing Manager,Sydney,2021-08-22,118661,On Leave,4.4,19,PMP
+464069,David,Johnson,emp464069@nexaworks.io,Data,Analytics Manager,New York,2022-06-02,152142,Terminated,4.1,14,CPA
+210665,Carlos,Young,emp210665@nexaworks.io,HR,People Ops Specialist,Toronto,2022-02-16,175517,Terminated,3.2,18,CPA
+587455,Carlos,Robinson,emp587455@nexaworks.io,HR,People Ops Specialist,Sydney,2018-08-13,119355,Active,2.7,8,CPA
+697530,Ines,Davis,emp697530@nexaworks.io,QA,Automation Engineer,Austin,2018-10-09,62523,Active,2.8,11,None
+725113,Fatima,Tanaka,emp725113@nexaworks.io,Sales,Account Executive,New York,2020-10-17,105084,Terminated,3.4,18,None
+824156,Mei,Hall,emp824156@nexaworks.io,Operations,Scrum Master,Toronto,2020-01-10,59520,Active,3.8,12,CPA
+680358,Noah,Davis,emp680358@nexaworks.io,Data,Data Scientist,San Francisco,2019-10-09,199281,Terminated,3.7,10,None
+341736,Liam,Tanaka,emp341736@nexaworks.io,Product,Senior PM,Toronto,2018-07-16,86340,Active,3.3,9,CISSP
+725780,Sofia,Müller,emp725780@nexaworks.io,Sales,Account Executive,San Francisco,2024-05-03,105886,Active,1.7,1,CISSP
+232731,Zara,Garcia,emp232731@nexaworks.io,Sales,Account Executive,Berlin,2015-08-12,200059,Contract,3.0,1,None
+592198,Nadia,Tanaka,emp592198@nexaworks.io,Operations,Scrum Master,Remote,2018-10-27,103329,Active,5.0,4,Scrum Master
+520172,Aisha,Garcia,emp520172@nexaworks.io,Operations,Operations Analyst,Remote,2021-06-21,69053,Active,4.1,18,GCP
+735770,Elena,Hall,emp735770@nexaworks.io,QA,Test Lead,Austin,2023-09-13,191989,Active,4.4,14,None
+696251,Chen,Chen,emp696251@nexaworks.io,QA,QA Engineer,San Francisco,2021-11-02,81013,Terminated,3.9,8,AWS
+678805,Zara,Müller,emp678805@nexaworks.io,Product,Senior PM,Austin,2015-01-11,162090,On Leave,3.2,2,None
+402099,Ines,Brown,emp402099@nexaworks.io,Sales,Solutions Engineer,Berlin,2015-10-19,116190,Terminated,4.5,14,Scrum Master
+671015,Ines,Müller,emp671015@nexaworks.io,Marketing,Content Strategist,New York,2017-12-24,92286,Active,2.8,20,None
+560485,Noah,Kim,emp560485@nexaworks.io,Product,Associate PM,London,2022-09-21,134715,Active,2.9,20,PMP
+553014,Kevin,Hall,emp553014@nexaworks.io,Finance,Controller,San Francisco,2015-04-16,78940,Terminated,1.8,19,PMP
+901909,Ethan,Clark,emp901909@nexaworks.io,Sales,Account Executive,Remote,2023-07-23,100925,Active,2.4,21,CPA
+195674,Nadia,Chen,emp195674@nexaworks.io,Operations,Ops Manager,San Francisco,2019-07-31,142374,Active,3.6,11,GCP
+827369,Carlos,Thompson,emp827369@nexaworks.io,Operations,Ops Manager,Austin,2022-06-06,159976,Active,3.7,4,GCP
+639593,Yuki,Young,emp639593@nexaworks.io,Engineering,DevOps Engineer,New York,2020-03-07,163330,On Leave,2.6,16,CPA
+896907,Priya,Johnson,emp896907@nexaworks.io,Engineering,Senior Engineer,Dubai,2017-12-29,198974,Active,3.8,21,None
+844261,Aisha,Garcia,emp844261@nexaworks.io,Design,Design Lead,London,2021-03-06,58584,Active,3.8,15,Scrum Master
+779172,Aisha,Robinson,emp779172@nexaworks.io,Design,Visual Designer,Sydney,2023-01-14,131509,Active,2.8,18,AWS
+502219,Fatima,Thompson,emp502219@nexaworks.io,Marketing,Content Strategist,Singapore,2015-10-13,127416,Contract,3.4,17,None
+960408,Omar,Robinson,emp960408@nexaworks.io,Engineering,Lead Engineer,Berlin,2023-02-21,133264,Contract,3.9,18,CPA
+461888,Aisha,Hall,emp461888@nexaworks.io,Finance,Finance Manager,Dubai,2020-02-09,139352,Terminated,2.6,13,None
+997594,Ines,Williams,emp997594@nexaworks.io,HR,HR Business Partner,Austin,2018-07-27,178987,Terminated,3.0,16,PMP
+232378,James,Williams,emp232378@nexaworks.io,Data,Data Scientist,New York,2016-02-16,170423,Active,2.2,14,AWS
+178463,Nina,Martinez,emp178463@nexaworks.io,Operations,Ops Manager,Sydney,2018-10-18,159197,Contract,2.6,11,CPA
+667296,Aisha,Kim,emp667296@nexaworks.io,Engineering,DevOps Engineer,Berlin,2015-10-08,116543,Active,2.3,14,Scrum Master
+897305,Yuki,Nguyen,emp897305@nexaworks.io,Product,Associate PM,Singapore,2016-11-12,133503,Active,3.6,14,AWS
+356059,Layla,Martinez,emp356059@nexaworks.io,Data,Analytics Manager,New York,2021-05-07,102200,Active,3.3,20,None
+621841,Noah,Müller,emp621841@nexaworks.io,QA,Test Lead,Berlin,2017-08-09,175887,Contract,2.9,22,CISSP
+265649,Marcus,Davis,emp265649@nexaworks.io,Product,Associate PM,San Francisco,2018-11-16,209028,Active,2.8,15,None
+308894,Elena,Johnson,emp308894@nexaworks.io,HR,HR Manager,San Francisco,2016-03-12,117182,Terminated,2.9,22,GCP
+387813,Zara,Müller,emp387813@nexaworks.io,Engineering,DevOps Engineer,Remote,2022-09-10,67856,Terminated,3.8,8,None
+329642,Ines,Robinson,emp329642@nexaworks.io,Marketing,Growth Analyst,Berlin,2022-08-08,90855,Active,2.4,2,None
+867934,Liam,Williams,emp867934@nexaworks.io,Design,UX Designer,Toronto,2018-04-23,140647,Active,2.3,18,None
+656639,Elena,Thompson,emp656639@nexaworks.io,Data,Data Scientist,Austin,2024-04-24,98134,Contract,3.3,4,CPA
+178957,Nina,Nguyen,emp178957@nexaworks.io,Design,UI Designer,Remote,2022-08-02,159179,Contract,4.7,3,GCP
+114594,Daniel,Nguyen,emp114594@nexaworks.io,Sales,Account Executive,London,2020-02-06,151622,Contract,2.9,4,None
+594379,Daniel,Kim,emp594379@nexaworks.io,Engineering,DevOps Engineer,Remote,2021-04-18,140984,Active,2.5,21,CPA
+835132,Priya,Ali,emp835132@nexaworks.io,Sales,Solutions Engineer,Remote,2016-04-22,91641,Active,3.6,18,AWS
+507524,Amara,Williams,emp507524@nexaworks.io,Operations,Ops Manager,Austin,2022-07-09,196608,Terminated,3.5,14,Scrum Master
+974190,Nadia,Nguyen,emp974190@nexaworks.io,Operations,Scrum Master,Austin,2018-02-19,63576,Active,3.2,4,None
+670913,Nadia,Robinson,emp670913@nexaworks.io,Finance,Financial Analyst,New York,2019-06-19,127320,Active,2.9,3,None
+772875,Kevin,Walker,emp772875@nexaworks.io,QA,QA Engineer,London,2015-07-27,142427,Active,3.4,7,None
+952547,James,Davis,emp952547@nexaworks.io,Marketing,Growth Analyst,Singapore,2023-09-07,93680,On Leave,3.8,5,AWS
+666456,David,Johnson,emp666456@nexaworks.io,Sales,Sales Manager,Singapore,2016-03-26,61758,On Leave,3.8,6,None
+154944,Noah,Nguyen,emp154944@nexaworks.io,Design,Visual Designer,Toronto,2020-11-24,84792,Active,3.9,17,Scrum Master
+573962,Noah,Johnson,emp573962@nexaworks.io,Data,Data Engineer,Berlin,2021-11-24,66367,Active,3.2,2,CPA
+988456,Chen,Kim,emp988456@nexaworks.io,HR,HR Manager,Austin,2022-09-11,83301,Active,1.9,11,AWS
+168872,Elena,Robinson,emp168872@nexaworks.io,Design,Design Lead,Remote,2022-01-01,208449,On Leave,2.8,17,GCP
+203996,David,Robinson,emp203996@nexaworks.io,Product,Senior PM,Dubai,2019-10-28,173372,Active,3.2,13,GCP
+865054,Chen,Kim,emp865054@nexaworks.io,Product,Product Director,New York,2019-10-15,136926,Active,3.1,3,Scrum Master
+552855,Nina,Walker,emp552855@nexaworks.io,Product,Product Director,London,2024-02-08,89108,On Leave,2.8,11,Scrum Master
+530764,Lucas,Brown,emp530764@nexaworks.io,Finance,Finance Manager,San Francisco,2023-02-01,68486,On Leave,4.3,5,CPA
+335137,Carlos,Hall,emp335137@nexaworks.io,Product,Product Director,San Francisco,2024-06-24,200821,Contract,3.2,8,GCP
+986209,Yuki,Johnson,emp986209@nexaworks.io,Data,Data Analyst,Singapore,2021-10-30,125109,Active,4.0,6,AWS
+693830,Liam,Martinez,emp693830@nexaworks.io,HR,HR Business Partner,New York,2016-08-04,63036,On Leave,3.5,14,CPA
+457455,Omar,Chen,emp457455@nexaworks.io,Design,Design Lead,New York,2018-06-30,140035,Active,3.6,20,PMP
+806707,Fatima,Davis,emp806707@nexaworks.io,Product,Product Director,Austin,2019-12-20,166152,Active,2.5,7,CISSP
+219346,Maria,Ali,emp219346@nexaworks.io,Finance,Finance Manager,London,2016-03-30,129251,Active,3.0,13,PMP
+108060,David,Garcia,emp108060@nexaworks.io,Marketing,Growth Analyst,Singapore,2017-05-15,90975,Active,2.6,1,CPA
+883301,Ines,Nguyen,emp883301@nexaworks.io,HR,Recruiter,London,2016-06-13,154669,Terminated,2.9,3,GCP
+878086,David,Hall,emp878086@nexaworks.io,Engineering,Principal Engineer,Remote,2015-03-18,175521,Contract,3.3,14,GCP
+843963,Noah,Nguyen,emp843963@nexaworks.io,HR,People Ops Specialist,Singapore,2016-04-16,161176,On Leave,4.0,3,GCP
+985506,Ahmed,Müller,emp985506@nexaworks.io,Product,Senior PM,Austin,2019-11-20,209369,Active,3.5,11,None
+449247,Amara,Williams,emp449247@nexaworks.io,Design,UX Designer,Singapore,2020-09-21,84891,Active,2.9,8,Scrum Master
+253557,Chen,Chen,emp253557@nexaworks.io,Sales,Sales Manager,Singapore,2016-12-11,95073,Terminated,3.3,21,CPA
+586490,David,Williams,emp586490@nexaworks.io,QA,Automation Engineer,San Francisco,2022-08-21,202978,Terminated,2.1,15,Scrum Master
+591699,Lucas,Kim,emp591699@nexaworks.io,Operations,Ops Manager,London,2023-12-06,127004,Active,1.8,10,CPA
+573866,Layla,Lewis,emp573866@nexaworks.io,Engineering,Software Engineer,Sydney,2019-02-19,130255,On Leave,4.6,13,CPA
+708519,Layla,Tanaka,emp708519@nexaworks.io,Data,Data Analyst,Berlin,2020-01-17,204856,Active,4.0,17,AWS
+164879,Aisha,Robinson,emp164879@nexaworks.io,Operations,Operations Analyst,Berlin,2024-02-04,145030,Active,3.7,15,CISSP
+648141,Fatima,Thompson,emp648141@nexaworks.io,QA,Test Lead,Remote,2019-01-30,152740,Active,3.4,22,PMP
+927564,Mei,Young,emp927564@nexaworks.io,Finance,Financial Analyst,San Francisco,2018-09-12,79774,Contract,2.8,5,None
+185461,Mei,Martinez,emp185461@nexaworks.io,QA,Test Lead,Remote,2018-12-03,136325,Terminated,3.2,5,Scrum Master
+424620,Mei,Lewis,emp424620@nexaworks.io,Data,Analytics Manager,Sydney,2022-03-20,141108,Terminated,3.8,3,GCP
+633188,David,Tanaka,emp633188@nexaworks.io,Finance,Financial Analyst,New York,2019-01-25,135967,Active,2.4,7,None
+244247,Maria,Thompson,emp244247@nexaworks.io,Design,UX Designer,Toronto,2018-04-26,81513,On Leave,2.5,20,AWS
+726258,Layla,Chen,emp726258@nexaworks.io,HR,Recruiter,Sydney,2016-10-26,102407,Contract,3.4,15,PMP
+530816,Elena,Tanaka,emp530816@nexaworks.io,Finance,Senior Analyst,San Francisco,2019-12-25,129692,Active,3.4,7,None
+811256,Lucas,Clark,emp811256@nexaworks.io,QA,Automation Engineer,Singapore,2020-03-06,128864,On Leave,2.2,6,None
+940181,Marcus,Lewis,emp940181@nexaworks.io,QA,Test Lead,London,2017-10-21,68678,Active,2.5,4,None
+187949,Chen,Ali,emp187949@nexaworks.io,Design,Design Lead,New York,2020-01-15,189572,Active,2.3,15,None
+127965,James,Thompson,emp127965@nexaworks.io,HR,HR Business Partner,New York,2019-06-12,186598,Active,2.9,4,None
+929822,Marcus,Williams,emp929822@nexaworks.io,Design,UI Designer,Remote,2015-06-06,130203,Active,3.9,16,CPA
+745239,Lucas,Clark,emp745239@nexaworks.io,Engineering,Software Engineer,Remote,2015-03-19,122088,On Leave,3.5,4,None
+349183,Layla,Robinson,emp349183@nexaworks.io,Sales,Account Executive,Austin,2015-07-15,117505,Contract,3.8,3,Scrum Master
+977330,Layla,Nguyen,emp977330@nexaworks.io,Operations,Operations Analyst,San Francisco,2022-02-01,190102,Active,2.4,8,GCP
+296412,Lucas,Walker,emp296412@nexaworks.io,Product,Product Director,London,2015-10-05,192903,Contract,2.9,1,GCP
+592972,Amara,Garcia,emp592972@nexaworks.io,Engineering,Principal Engineer,New York,2019-03-10,121492,Active,3.4,19,None
+239890,Kevin,Robinson,emp239890@nexaworks.io,Engineering,Lead Engineer,Sydney,2021-02-14,143748,Active,2.7,16,AWS
+950916,David,Müller,emp950916@nexaworks.io,Design,UX Designer,Singapore,2023-01-11,174977,Active,3.9,17,GCP
+955015,Elena,Nguyen,emp955015@nexaworks.io,Data,Analytics Manager,Singapore,2017-11-03,64599,Active,3.5,2,None
+386488,Zara,Tanaka,emp386488@nexaworks.io,Product,Product Director,Austin,2019-11-25,159863,Active,3.3,12,CISSP
+379676,Sofia,Walker,emp379676@nexaworks.io,Product,Associate PM,Berlin,2015-11-20,167881,Contract,1.9,10,None
+207581,Noah,Nguyen,emp207581@nexaworks.io,Product,Product Director,Austin,2022-05-31,132500,Terminated,3.1,15,PMP
+862120,Ahmed,Nguyen,emp862120@nexaworks.io,Finance,Finance Manager,New York,2018-01-29,70036,Terminated,4.3,17,AWS
+132653,Ethan,Patel,emp132653@nexaworks.io,Design,Visual Designer,San Francisco,2015-05-23,88090,Active,4.5,20,AWS
+812048,Omar,Lewis,emp812048@nexaworks.io,Operations,Ops Manager,Singapore,2019-03-04,171376,On Leave,3.9,12,GCP
+429657,Priya,Davis,emp429657@nexaworks.io,Sales,Sales Manager,Austin,2016-04-09,61793,On Leave,3.3,9,CPA
+324993,Nadia,Kim,emp324993@nexaworks.io,QA,Quality Manager,San Francisco,2022-10-13,183765,Active,2.6,15,AWS
+848022,Alex,Müller,emp848022@nexaworks.io,Operations,Operations Analyst,London,2024-02-02,138778,Active,2.9,6,AWS
+932250,Ines,Tanaka,emp932250@nexaworks.io,Finance,Senior Analyst,Singapore,2016-05-12,107685,Active,2.4,1,None
+680933,Marcus,Tanaka,emp680933@nexaworks.io,QA,Quality Manager,New York,2020-03-29,199610,Active,4.4,17,GCP
+906527,Noah,Lewis,emp906527@nexaworks.io,HR,HR Business Partner,Berlin,2016-05-28,138106,Active,4.5,12,AWS
+969325,Lucas,Williams,emp969325@nexaworks.io,Data,Data Engineer,New York,2023-08-11,88825,Active,2.0,10,AWS
+269834,Chen,Davis,emp269834@nexaworks.io,Finance,Senior Analyst,Dubai,2018-11-18,191025,Contract,4.0,7,CISSP
+387782,Omar,Chen,emp387782@nexaworks.io,Design,Design Lead,London,2021-11-21,194848,On Leave,4.2,22,None
+983456,Ryan,Hall,emp983456@nexaworks.io,QA,QA Engineer,New York,2024-04-03,62437,Terminated,4.0,9,None
+904214,Zara,Ali,emp904214@nexaworks.io,QA,Automation Engineer,San Francisco,2021-12-06,62939,Active,2.4,22,GCP
+411882,Zara,Robinson,emp411882@nexaworks.io,Operations,Operations Analyst,New York,2022-09-21,70705,Active,3.4,7,None
+736129,Ryan,Nguyen,emp736129@nexaworks.io,Design,Design Lead,Remote,2023-01-21,138706,Active,3.3,17,CISSP
+211341,Omar,Garcia,emp211341@nexaworks.io,Finance,Senior Analyst,San Francisco,2020-03-25,87118,Active,2.0,2,None
+502810,Ryan,Chen,emp502810@nexaworks.io,QA,Automation Engineer,Toronto,2017-10-13,96864,Active,4.0,16,CISSP
+589491,Lucas,Robinson,emp589491@nexaworks.io,Operations,Ops Manager,New York,2020-07-30,61075,Active,1.9,8,None
+711680,Elena,Walker,emp711680@nexaworks.io,Finance,Financial Analyst,Berlin,2015-07-27,128755,Active,2.0,1,Scrum Master
+551860,Maria,Martinez,emp551860@nexaworks.io,Design,Design Lead,Singapore,2023-02-27,150886,Active,3.4,2,CISSP
+304110,Mei,Young,emp304110@nexaworks.io,Finance,Controller,San Francisco,2015-10-29,156279,On Leave,2.2,4,AWS
+201377,Ryan,Williams,emp201377@nexaworks.io,HR,People Ops Specialist,London,2023-11-30,143889,Active,3.4,7,CISSP
+520884,Omar,Young,emp520884@nexaworks.io,Data,Data Analyst,Austin,2015-07-05,65201,Active,3.8,17,AWS
+443897,Kevin,Müller,emp443897@nexaworks.io,QA,Quality Manager,Remote,2016-10-27,158010,Terminated,3.9,19,None
+631958,Priya,Clark,emp631958@nexaworks.io,Data,Analytics Manager,San Francisco,2022-12-12,202567,Terminated,3.0,19,None
+935457,Ryan,Hall,emp935457@nexaworks.io,Engineering,DevOps Engineer,Remote,2020-04-27,124607,Contract,4.6,19,None
+856442,Omar,Ali,emp856442@nexaworks.io,Engineering,DevOps Engineer,Singapore,2020-05-21,99698,Active,2.3,2,Scrum Master
+300051,Liam,Clark,emp300051@nexaworks.io,Engineering,Principal Engineer,New York,2018-07-08,164780,Terminated,3.2,17,CPA
+989587,David,Chen,emp989587@nexaworks.io,Engineering,Senior Engineer,Austin,2020-10-25,109353,Active,1.1,15,CISSP
+458955,Aisha,Davis,emp458955@nexaworks.io,Data,Data Scientist,Berlin,2022-07-31,124300,Active,2.5,18,None
+335790,Sera,Davis,emp335790@nexaworks.io,Sales,Business Dev Rep,Austin,2022-11-27,109336,On Leave,3.1,10,Scrum Master
+701334,Omar,Müller,emp701334@nexaworks.io,Data,Analytics Manager,Remote,2019-06-05,145474,Contract,2.6,2,None
+848831,Sera,Walker,emp848831@nexaworks.io,Product,Product Director,Sydney,2019-12-17,122225,Active,3.4,9,AWS
+214532,Aisha,Ali,emp214532@nexaworks.io,QA,Test Lead,Berlin,2017-09-20,68307,On Leave,2.9,2,Scrum Master
+533377,Daniel,Tanaka,emp533377@nexaworks.io,Finance,Finance Manager,Remote,2016-02-16,91036,Active,4.3,16,None
+892630,Daniel,Hall,emp892630@nexaworks.io,Sales,Business Dev Rep,Remote,2018-03-15,70509,Active,3.4,8,CISSP
+874568,Zara,Chen,emp874568@nexaworks.io,Engineering,Senior Engineer,Sydney,2019-09-08,101081,Contract,3.6,10,PMP
+109717,Nina,Lewis,emp109717@nexaworks.io,Sales,Account Executive,Austin,2018-10-04,129596,Terminated,3.3,16,AWS
+992400,Carlos,Chen,emp992400@nexaworks.io,Data,Analytics Manager,Toronto,2018-01-22,105544,Terminated,3.6,1,None
+929179,David,Kim,emp929179@nexaworks.io,Sales,Sales Manager,Sydney,2016-12-19,161296,On Leave,2.8,13,Scrum Master
+293757,David,Müller,emp293757@nexaworks.io,Design,Visual Designer,Austin,2018-08-18,120024,Active,4.1,19,PMP
+374258,Ahmed,Lewis,emp374258@nexaworks.io,Finance,Senior Analyst,Austin,2015-09-12,85991,Active,3.4,10,Scrum Master
+769737,Layla,Nguyen,emp769737@nexaworks.io,Sales,Business Dev Rep,New York,2021-11-22,112894,Terminated,3.5,14,CISSP
+593699,Nadia,Kim,emp593699@nexaworks.io,Data,Data Engineer,Toronto,2023-07-18,119871,On Leave,3.8,17,CPA
+653829,Nina,Williams,emp653829@nexaworks.io,Finance,Financial Analyst,London,2021-04-29,84414,On Leave,4.2,6,None
+995993,Chen,Lewis,emp995993@nexaworks.io,Data,Analytics Manager,Toronto,2016-04-21,108844,Active,3.7,15,PMP
+575458,James,Martinez,emp575458@nexaworks.io,Design,Visual Designer,Singapore,2020-02-15,202825,Terminated,4.1,9,PMP
+882032,Nina,Patel,emp882032@nexaworks.io,Marketing,Marketing Manager,San Francisco,2015-07-05,166069,Active,3.7,3,CPA
+133276,Yuki,Martinez,emp133276@nexaworks.io,Sales,Solutions Engineer,Berlin,2017-01-07,90501,Active,3.6,15,GCP
+493892,Ahmed,Lewis,emp493892@nexaworks.io,Product,Senior PM,New York,2022-04-30,146165,On Leave,1.5,5,None
+975373,Aisha,Ali,emp975373@nexaworks.io,Engineering,Software Engineer,London,2018-05-07,176373,Contract,3.0,15,None
+262656,Fatima,Young,emp262656@nexaworks.io,Sales,Sales Manager,New York,2023-02-17,84581,Terminated,2.6,1,None
+316092,Amara,Patel,emp316092@nexaworks.io,Product,Product Manager,Dubai,2021-08-29,63801,Active,2.4,13,CPA
+345722,Aisha,Hall,emp345722@nexaworks.io,Data,Data Engineer,New York,2023-06-17,69796,Active,3.7,11,None
+348411,Alex,Chen,emp348411@nexaworks.io,Sales,Sales Manager,New York,2022-05-28,191642,On Leave,3.5,21,GCP
+682851,Marcus,Clark,emp682851@nexaworks.io,Operations,Operations Analyst,Singapore,2018-11-11,154917,Active,4.0,14,AWS
+414455,Omar,Robinson,emp414455@nexaworks.io,HR,Recruiter,San Francisco,2023-06-18,196014,Terminated,2.1,2,CISSP
+532723,Daniel,Kim,emp532723@nexaworks.io,HR,Recruiter,San Francisco,2019-05-10,118663,Active,3.6,15,None
+196955,Liam,Hall,emp196955@nexaworks.io,Data,Data Engineer,New York,2015-07-31,125375,Active,2.7,22,CISSP
+327558,Liam,Brown,emp327558@nexaworks.io,Operations,Project Coordinator,Remote,2018-09-25,134478,Active,4.1,4,CPA
+354377,Daniel,Nguyen,emp354377@nexaworks.io,QA,Test Lead,Austin,2019-06-13,117739,On Leave,2.3,10,None
+477114,Zara,Thompson,emp477114@nexaworks.io,Data,Analytics Manager,Singapore,2020-03-23,80849,Terminated,3.0,7,None
+428122,Ethan,Clark,emp428122@nexaworks.io,HR,HR Business Partner,London,2021-04-23,113005,On Leave,3.4,10,AWS
+305721,Nina,Thompson,emp305721@nexaworks.io,Finance,Senior Analyst,Sydney,2019-04-05,204366,Active,3.3,9,CPA
+858705,Daniel,Patel,emp858705@nexaworks.io,Operations,Scrum Master,Austin,2016-11-20,147320,On Leave,3.9,17,PMP
+979827,Daniel,Ali,emp979827@nexaworks.io,Product,Product Manager,Austin,2023-07-28,56673,Contract,4.4,3,AWS
+109585,Mei,Tanaka,emp109585@nexaworks.io,Marketing,Brand Manager,Berlin,2019-03-09,70846,Active,2.6,1,PMP
+658065,Nina,Müller,emp658065@nexaworks.io,Data,Analytics Manager,London,2015-02-18,59384,Active,2.7,1,CISSP
+952657,Kevin,Nguyen,emp952657@nexaworks.io,HR,Recruiter,Berlin,2016-03-14,80248,Active,2.9,9,GCP
+182857,Aisha,Müller,emp182857@nexaworks.io,Finance,Finance Manager,San Francisco,2020-02-24,203111,Terminated,3.3,22,Scrum Master
+785491,Sofia,Kim,emp785491@nexaworks.io,Engineering,Software Engineer,Berlin,2019-07-19,154421,Terminated,2.8,16,GCP
+776234,Marcus,Hall,emp776234@nexaworks.io,Finance,Financial Analyst,San Francisco,2020-12-03,66154,Contract,4.0,16,None
+148823,Liam,Hall,emp148823@nexaworks.io,Product,Product Director,Sydney,2021-02-02,202720,Active,3.2,5,GCP
+180674,Ahmed,Walker,emp180674@nexaworks.io,Sales,Sales Manager,London,2021-04-28,118038,Contract,3.0,11,GCP
+892313,Layla,Young,emp892313@nexaworks.io,Design,UX Designer,Sydney,2020-08-13,145664,Active,4.1,20,GCP
+911131,Zara,Ali,emp911131@nexaworks.io,Finance,Financial Analyst,Singapore,2022-02-10,126651,Active,3.6,12,CISSP
+493663,Aisha,Kim,emp493663@nexaworks.io,HR,Recruiter,Berlin,2022-08-16,208583,Contract,3.2,3,None
+261712,Chen,Johnson,emp261712@nexaworks.io,HR,Recruiter,San Francisco,2023-04-18,157137,Active,3.1,10,CPA
+477400,Priya,Johnson,emp477400@nexaworks.io,Sales,Account Executive,London,2016-06-26,77884,Active,3.7,3,None
+681141,Ryan,Kim,emp681141@nexaworks.io,Product,Product Director,San Francisco,2019-04-27,58235,Active,4.1,18,None
+699743,Chen,Chen,emp699743@nexaworks.io,Data,Data Engineer,San Francisco,2022-09-08,154806,Active,3.7,14,None
+541557,Amara,Tanaka,emp541557@nexaworks.io,Sales,Solutions Engineer,San Francisco,2023-10-11,75164,Active,3.9,20,None
+580102,Nadia,Thompson,emp580102@nexaworks.io,Product,Senior PM,Berlin,2018-06-01,56774,Contract,4.0,15,None
+551533,Liam,Tanaka,emp551533@nexaworks.io,QA,Test Lead,Berlin,2018-05-15,139060,Terminated,3.2,11,AWS
+517584,Kevin,Martinez,emp517584@nexaworks.io,Finance,Controller,San Francisco,2023-03-30,183714,Active,4.6,12,Scrum Master
+691240,Noah,Brown,emp691240@nexaworks.io,Marketing,Content Strategist,New York,2022-08-24,199205,Terminated,3.2,15,None
+971662,Marcus,Clark,emp971662@nexaworks.io,Product,Associate PM,San Francisco,2022-07-19,185889,Active,3.8,13,Scrum Master
+570880,Marcus,Clark,emp570880@nexaworks.io,QA,Automation Engineer,London,2021-07-12,160068,Contract,3.9,18,PMP
+929130,Ethan,Martinez,emp929130@nexaworks.io,Finance,Financial Analyst,Berlin,2016-03-23,120072,Active,3.0,11,GCP
+211090,Nina,Hall,emp211090@nexaworks.io,Engineering,Software Engineer,London,2017-11-25,113196,On Leave,2.9,19,None
+567432,Priya,Müller,emp567432@nexaworks.io,Finance,Finance Manager,Remote,2020-03-11,209295,Active,3.3,14,Scrum Master
+221707,Lucas,Tanaka,emp221707@nexaworks.io,Design,Design Lead,Austin,2018-07-01,144932,Active,3.0,12,CPA
+202365,David,Garcia,emp202365@nexaworks.io,Operations,Scrum Master,New York,2018-07-30,72609,Contract,3.0,22,AWS
+876459,Noah,Ali,emp876459@nexaworks.io,Marketing,Content Strategist,San Francisco,2021-03-10,96978,Active,4.6,13,AWS
+295440,Liam,Davis,emp295440@nexaworks.io,HR,HR Manager,New York,2015-04-30,106727,Active,2.7,3,Scrum Master
+938338,Carlos,Tanaka,emp938338@nexaworks.io,Data,Data Engineer,New York,2019-02-07,140454,Active,3.6,17,None
+725969,Mei,Müller,emp725969@nexaworks.io,HR,HR Manager,Berlin,2021-08-01,84945,Contract,2.6,20,Scrum Master
+804758,Yuki,Williams,emp804758@nexaworks.io,Design,Design Lead,San Francisco,2016-04-27,117540,Active,4.5,17,GCP
+538555,Sera,Chen,emp538555@nexaworks.io,QA,Test Lead,London,2021-06-12,155587,Terminated,2.7,18,AWS
+613426,Maria,Nguyen,emp613426@nexaworks.io,Sales,Sales Manager,Sydney,2017-02-05,137465,On Leave,3.8,1,CPA
+243167,Kevin,Robinson,emp243167@nexaworks.io,Marketing,Brand Manager,Austin,2021-04-19,187497,Terminated,3.0,16,AWS
+186686,Aisha,Walker,emp186686@nexaworks.io,QA,QA Engineer,San Francisco,2023-12-04,112810,Active,2.8,10,AWS
+918665,Yuki,Walker,emp918665@nexaworks.io,Operations,Scrum Master,Singapore,2021-03-01,188904,Contract,3.7,2,CPA
+672892,Noah,Davis,emp672892@nexaworks.io,Marketing,Brand Manager,San Francisco,2016-02-24,119888,Active,3.6,12,Scrum Master
+560398,Sofia,Young,emp560398@nexaworks.io,Product,Senior PM,Berlin,2017-05-09,209120,Active,2.9,5,None
+953047,Nina,Chen,emp953047@nexaworks.io,Marketing,Marketing Manager,London,2021-05-24,146964,On Leave,2.1,11,None
+403387,Carlos,Williams,emp403387@nexaworks.io,QA,Quality Manager,Austin,2020-10-08,79962,Active,4.2,5,None
+253347,Daniel,Davis,emp253347@nexaworks.io,Finance,Senior Analyst,Austin,2023-07-16,157944,On Leave,4.3,21,GCP
+493396,Noah,Tanaka,emp493396@nexaworks.io,Operations,Operations Analyst,Toronto,2022-02-08,79404,Active,2.4,11,PMP
+911739,Nina,Martinez,emp911739@nexaworks.io,Product,Associate PM,Sydney,2022-02-13,148905,Contract,4.1,7,GCP
+964915,Nadia,Tanaka,emp964915@nexaworks.io,Marketing,Brand Manager,London,2018-01-04,139637,On Leave,3.7,11,PMP
+148174,Noah,Robinson,emp148174@nexaworks.io,Product,Associate PM,Remote,2015-03-08,87568,Active,2.8,1,GCP
+312146,Alex,Chen,emp312146@nexaworks.io,Design,Design Lead,New York,2016-10-13,126832,Terminated,4.0,2,GCP
+755993,Liam,Tanaka,emp755993@nexaworks.io,Sales,Sales Manager,Toronto,2019-10-25,78907,Active,3.8,3,AWS
+722518,Marcus,Williams,emp722518@nexaworks.io,Marketing,Brand Manager,Remote,2015-02-08,57113,Active,3.0,16,Scrum Master
+340068,Alex,Müller,emp340068@nexaworks.io,HR,HR Business Partner,New York,2023-03-13,81850,Active,2.2,5,GCP
+911032,Amara,Brown,emp911032@nexaworks.io,Design,UI Designer,New York,2015-10-08,194069,Active,2.5,21,AWS
+531709,Ryan,Garcia,emp531709@nexaworks.io,QA,Automation Engineer,Dubai,2017-06-08,77724,Active,3.0,19,GCP
+468611,Layla,Young,emp468611@nexaworks.io,HR,People Ops Specialist,San Francisco,2023-11-15,91655,On Leave,3.4,10,PMP
+989079,Elena,Patel,emp989079@nexaworks.io,Sales,Sales Manager,New York,2020-10-21,188568,Active,4.4,8,CPA
+504630,Omar,Martinez,emp504630@nexaworks.io,Product,Senior PM,Remote,2020-08-08,73615,Active,1.5,19,GCP
+483162,Chen,Johnson,emp483162@nexaworks.io,Data,Data Engineer,Remote,2023-07-22,178473,Contract,3.1,19,Scrum Master
+114463,Lucas,Clark,emp114463@nexaworks.io,Sales,Sales Manager,San Francisco,2015-06-13,70851,Terminated,4.1,14,GCP
+186431,Sera,Brown,emp186431@nexaworks.io,Data,Data Engineer,San Francisco,2018-02-10,76914,On Leave,3.2,5,CISSP
+442622,Sera,Clark,emp442622@nexaworks.io,HR,HR Business Partner,New York,2018-06-24,169684,Active,3.2,4,CPA
+742039,Omar,Johnson,emp742039@nexaworks.io,QA,QA Engineer,New York,2018-06-20,101044,Terminated,2.1,6,CPA
+463546,Ryan,Johnson,emp463546@nexaworks.io,Data,Data Scientist,San Francisco,2016-11-14,152483,Active,4.3,11,GCP
+385192,Noah,Lewis,emp385192@nexaworks.io,Data,Data Analyst,Berlin,2017-12-13,206165,Active,4.3,12,PMP
+623879,Priya,Ali,emp623879@nexaworks.io,QA,Test Lead,London,2019-02-15,96237,Terminated,3.4,17,PMP
+146177,Sofia,Patel,emp146177@nexaworks.io,Engineering,Senior Engineer,San Francisco,2015-07-08,178670,Active,3.7,18,GCP
+335421,Mei,Patel,emp335421@nexaworks.io,Finance,Senior Analyst,San Francisco,2019-09-01,138869,On Leave,3.4,6,None
+943409,Elena,Müller,emp943409@nexaworks.io,Data,Data Analyst,Dubai,2019-07-01,73068,Contract,3.7,11,Scrum Master
+679958,Noah,Nguyen,emp679958@nexaworks.io,Operations,Operations Analyst,Toronto,2019-02-20,107604,Active,3.1,19,CPA
+910143,Aisha,Walker,emp910143@nexaworks.io,Marketing,Content Strategist,Remote,2016-09-08,56671,Active,4.6,12,PMP
+451291,Maria,Williams,emp451291@nexaworks.io,Engineering,Principal Engineer,San Francisco,2024-07-09,135612,Active,4.1,9,Scrum Master
+146032,Chen,Hall,emp146032@nexaworks.io,Marketing,Brand Manager,Austin,2022-11-10,152646,Terminated,3.9,4,CISSP
+239999,Carlos,Thompson,emp239999@nexaworks.io,HR,HR Business Partner,New York,2021-08-21,203850,Active,4.4,13,None
+433507,Ryan,Hall,emp433507@nexaworks.io,Operations,Ops Manager,Remote,2017-08-14,74578,Active,3.8,4,AWS
+210790,Noah,Müller,emp210790@nexaworks.io,Design,Visual Designer,Remote,2020-03-23,137321,Active,2.7,15,None
+993892,Layla,Patel,emp993892@nexaworks.io,Product,Product Manager,Sydney,2016-10-07,134748,Terminated,3.9,7,None
+255528,James,Martinez,emp255528@nexaworks.io,Product,Senior PM,San Francisco,2018-12-28,158873,Active,2.4,15,CISSP
+884417,Omar,Garcia,emp884417@nexaworks.io,Data,Data Engineer,New York,2016-01-23,176121,Contract,3.3,1,PMP
+970708,Ethan,Davis,emp970708@nexaworks.io,Marketing,Content Strategist,Berlin,2017-03-22,160010,On Leave,2.7,3,PMP
+167603,Kevin,Thompson,emp167603@nexaworks.io,Marketing,Brand Manager,New York,2024-01-28,88761,Contract,4.1,4,PMP
+583388,Fatima,Chen,emp583388@nexaworks.io,Engineering,Senior Engineer,New York,2021-06-08,168549,Terminated,3.7,12,None
+296242,Layla,Ali,emp296242@nexaworks.io,Sales,Business Dev Rep,New York,2020-01-01,93962,On Leave,2.8,21,None
+623125,Lucas,Ali,emp623125@nexaworks.io,HR,HR Manager,New York,2015-09-07,77995,Contract,3.3,21,CISSP
+933456,Zara,Nguyen,emp933456@nexaworks.io,Engineering,Principal Engineer,Austin,2023-10-08,149139,Contract,3.8,19,CISSP
+437226,Carlos,Patel,emp437226@nexaworks.io,HR,People Ops Specialist,Dubai,2017-01-06,61832,Contract,3.2,16,CISSP
+474795,Carlos,Walker,emp474795@nexaworks.io,QA,Test Lead,San Francisco,2016-10-15,81249,Active,3.8,2,None
+703656,Yuki,Hall,emp703656@nexaworks.io,HR,People Ops Specialist,Singapore,2024-05-30,100537,Terminated,3.8,1,None
+695225,Alex,Tanaka,emp695225@nexaworks.io,QA,Test Lead,Sydney,2021-04-25,104344,Contract,4.2,18,None
+284084,David,Young,emp284084@nexaworks.io,Operations,Operations Analyst,London,2016-01-05,69724,Active,3.5,7,AWS
+457311,Sera,Williams,emp457311@nexaworks.io,Design,Design Lead,New York,2015-09-01,60744,Terminated,3.9,4,CISSP
+482614,Amara,Clark,emp482614@nexaworks.io,Product,Product Director,San Francisco,2022-11-25,158703,Active,2.9,21,CPA
+780714,Ines,Nguyen,emp780714@nexaworks.io,Finance,Senior Analyst,Toronto,2022-12-06,202318,On Leave,3.1,8,AWS
+496764,Nadia,Hall,emp496764@nexaworks.io,Sales,Business Dev Rep,Remote,2016-06-05,101585,Active,3.2,2,AWS
+731650,Omar,Thompson,emp731650@nexaworks.io,Finance,Senior Analyst,New York,2022-03-04,203255,Active,1.7,3,None
+463656,Noah,Johnson,emp463656@nexaworks.io,Finance,Senior Analyst,Toronto,2022-02-18,78258,Active,3.9,9,None
+361662,Ahmed,Robinson,emp361662@nexaworks.io,Product,Product Director,Toronto,2017-11-17,83320,Active,2.5,14,AWS
+534130,Daniel,Ali,emp534130@nexaworks.io,Operations,Scrum Master,Singapore,2018-12-09,198136,On Leave,2.5,6,CPA
+177289,Chen,Thompson,emp177289@nexaworks.io,Engineering,Lead Engineer,San Francisco,2015-03-24,138549,Active,4.3,6,GCP
+268720,Alex,Clark,emp268720@nexaworks.io,Product,Product Manager,Berlin,2018-10-16,181546,On Leave,3.2,6,PMP
+206176,Sera,Walker,emp206176@nexaworks.io,Finance,Senior Analyst,Toronto,2017-02-17,162290,Terminated,2.7,9,None
+411847,James,Clark,emp411847@nexaworks.io,Marketing,Marketing Manager,New York,2015-07-23,157996,Active,2.2,3,None
+963918,Daniel,Müller,emp963918@nexaworks.io,QA,Automation Engineer,New York,2017-03-28,80424,Active,2.8,3,CPA
+984756,Nina,Martinez,emp984756@nexaworks.io,Product,Product Director,San Francisco,2023-10-20,159193,Terminated,1.9,6,None
+499974,Carlos,Ali,emp499974@nexaworks.io,Finance,Senior Analyst,San Francisco,2019-12-31,66696,Active,3.7,9,PMP
+258471,Nina,Patel,emp258471@nexaworks.io,Product,Product Manager,Singapore,2022-06-29,145122,Active,3.7,13,CISSP
+538967,Ahmed,Patel,emp538967@nexaworks.io,Data,Analytics Manager,Austin,2021-06-03,116772,Active,2.7,17,CISSP
+939333,Liam,Williams,emp939333@nexaworks.io,QA,Test Lead,Remote,2016-05-07,172713,Contract,4.3,2,GCP
+182175,David,Kim,emp182175@nexaworks.io,HR,Recruiter,Sydney,2024-03-23,93765,Active,5.0,3,GCP
+683390,Ethan,Lewis,emp683390@nexaworks.io,HR,People Ops Specialist,Singapore,2018-02-05,191233,On Leave,2.0,14,Scrum Master
+534574,Sera,Garcia,emp534574@nexaworks.io,Design,UI Designer,London,2021-05-09,209123,Active,3.8,19,Scrum Master
+923914,Sofia,Davis,emp923914@nexaworks.io,Sales,Business Dev Rep,Berlin,2019-08-11,124241,Active,2.8,13,AWS
+748276,Marcus,Ali,emp748276@nexaworks.io,QA,Automation Engineer,Dubai,2015-06-08,158754,Active,3.9,2,CPA
+381631,Priya,Ali,emp381631@nexaworks.io,Finance,Financial Analyst,Sydney,2018-10-15,134444,Terminated,2.9,5,None
+879850,Liam,Robinson,emp879850@nexaworks.io,Operations,Ops Manager,Berlin,2018-01-08,164254,Active,4.6,7,GCP
+876936,Ahmed,Williams,emp876936@nexaworks.io,Operations,Ops Manager,San Francisco,2024-03-16,69734,On Leave,3.0,17,PMP
+282176,Maria,Nguyen,emp282176@nexaworks.io,Marketing,Content Strategist,San Francisco,2024-05-21,70106,Active,3.4,7,None
+486244,Sofia,Tanaka,emp486244@nexaworks.io,Operations,Scrum Master,Austin,2022-02-15,87472,Active,3.2,19,CISSP
+466749,Chen,Müller,emp466749@nexaworks.io,Finance,Senior Analyst,Toronto,2024-05-24,122806,Terminated,2.9,1,GCP
+152062,Nadia,Johnson,emp152062@nexaworks.io,Design,UI Designer,Austin,2017-06-25,114011,Active,3.2,16,AWS
+778818,Marcus,Davis,emp778818@nexaworks.io,Design,UX Designer,Berlin,2017-07-05,121162,Active,2.9,14,GCP
+992952,Ethan,Garcia,emp992952@nexaworks.io,Finance,Finance Manager,Sydney,2017-10-29,112202,Active,2.4,1,CISSP
+794530,Carlos,Thompson,emp794530@nexaworks.io,Finance,Controller,Austin,2018-05-07,83338,Active,3.6,9,None
+787991,Ines,Young,emp787991@nexaworks.io,Sales,Sales Manager,Singapore,2016-09-06,190605,Contract,3.5,13,None
+813824,Sera,Clark,emp813824@nexaworks.io,Design,UX Designer,Remote,2022-05-08,185383,Active,1.9,13,GCP
+872519,Nina,Tanaka,emp872519@nexaworks.io,Engineering,DevOps Engineer,Toronto,2022-12-10,204957,Terminated,3.7,22,None
+414777,Carlos,Walker,emp414777@nexaworks.io,Design,UI Designer,Austin,2018-04-18,80586,Terminated,2.8,6,None
+786224,Yuki,Davis,emp786224@nexaworks.io,Product,Senior PM,Singapore,2018-12-26,113544,Active,3.4,19,None
+586288,Chen,Tanaka,emp586288@nexaworks.io,Product,Associate PM,London,2015-08-08,207980,On Leave,2.8,7,CISSP
+225636,Fatima,Hall,emp225636@nexaworks.io,HR,People Ops Specialist,Remote,2019-08-20,69172,Active,3.7,15,AWS
+431752,David,Patel,emp431752@nexaworks.io,Design,UX Designer,Berlin,2020-06-20,142196,Active,3.1,1,CPA
+386814,Fatima,Clark,emp386814@nexaworks.io,Marketing,Content Strategist,New York,2021-06-18,96532,On Leave,2.2,13,GCP
+600590,James,Thompson,emp600590@nexaworks.io,HR,HR Business Partner,New York,2015-06-04,194927,Active,3.5,17,None
+118786,Sofia,Kim,emp118786@nexaworks.io,Engineering,Senior Engineer,London,2017-07-15,145269,Active,3.3,2,None
+404955,Yuki,Brown,emp404955@nexaworks.io,Operations,Ops Manager,San Francisco,2019-11-12,90072,Active,3.7,6,GCP
+120053,Yuki,Patel,emp120053@nexaworks.io,Marketing,Content Strategist,London,2023-02-26,89394,Active,3.4,13,None
+908713,Kevin,Johnson,emp908713@nexaworks.io,Data,Data Analyst,Berlin,2021-08-29,67572,Terminated,3.5,2,Scrum Master
+537020,Daniel,Johnson,emp537020@nexaworks.io,Operations,Scrum Master,San Francisco,2016-05-21,198466,Terminated,3.4,10,GCP
+793805,Lucas,Young,emp793805@nexaworks.io,Product,Product Director,Austin,2021-12-25,90956,Active,4.5,4,None
+219550,Marcus,Clark,emp219550@nexaworks.io,Product,Associate PM,Remote,2017-03-24,107363,Active,3.6,10,AWS
+141319,James,Kim,emp141319@nexaworks.io,Data,Analytics Manager,San Francisco,2017-04-30,181003,Active,2.1,4,CPA
+256389,Carlos,Robinson,emp256389@nexaworks.io,Product,Product Manager,Austin,2023-02-11,81552,Active,4.2,2,Scrum Master
+952679,David,Clark,emp952679@nexaworks.io,Design,UX Designer,San Francisco,2024-07-22,131170,Terminated,2.8,4,Scrum Master
+992596,Layla,Davis,emp992596@nexaworks.io,Engineering,Software Engineer,San Francisco,2024-07-21,91279,Active,3.2,3,None
+954551,Carlos,Martinez,emp954551@nexaworks.io,Finance,Senior Analyst,Austin,2016-04-11,160061,Active,3.0,16,GCP
+780364,Zara,Hall,emp780364@nexaworks.io,Design,UX Designer,New York,2016-06-26,70373,On Leave,4.7,22,CPA
+290065,Mei,Williams,emp290065@nexaworks.io,QA,Automation Engineer,Berlin,2023-09-27,149004,Contract,3.2,16,CPA
+218423,Lucas,Hall,emp218423@nexaworks.io,HR,HR Manager,Toronto,2015-07-08,71603,Terminated,3.4,19,None
+802382,Mei,Martinez,emp802382@nexaworks.io,Finance,Financial Analyst,Austin,2019-11-08,120162,Terminated,4.0,5,CISSP
+742686,Chen,Tanaka,emp742686@nexaworks.io,Engineering,Software Engineer,Austin,2022-03-20,96137,Active,2.6,11,None
+446968,Ahmed,Ali,emp446968@nexaworks.io,Sales,Account Executive,London,2020-09-07,113381,Active,3.4,3,CPA
+565765,James,Garcia,emp565765@nexaworks.io,QA,Automation Engineer,Austin,2015-12-27,185667,Terminated,3.1,13,GCP
+137572,Daniel,Müller,emp137572@nexaworks.io,Data,Data Analyst,Singapore,2024-04-05,78827,On Leave,3.5,17,CISSP
+316899,Layla,Young,emp316899@nexaworks.io,Operations,Ops Manager,San Francisco,2019-01-28,69227,Contract,3.9,16,None
+850689,Kevin,Müller,emp850689@nexaworks.io,Operations,Operations Analyst,New York,2016-02-04,113129,Active,2.2,18,CISSP
+492052,Carlos,Young,emp492052@nexaworks.io,Product,Product Manager,Toronto,2016-11-03,184085,Active,4.1,7,None
+226611,Ryan,Clark,emp226611@nexaworks.io,HR,Recruiter,Toronto,2020-02-16,104959,Active,4.3,2,Scrum Master
+909652,Amara,Patel,emp909652@nexaworks.io,Operations,Scrum Master,Austin,2022-05-21,209485,On Leave,3.8,18,GCP
+979562,Amara,Williams,emp979562@nexaworks.io,QA,Automation Engineer,Toronto,2020-09-13,101452,Active,3.3,4,GCP
+789461,Carlos,Martinez,emp789461@nexaworks.io,QA,Quality Manager,Toronto,2020-08-26,155837,Active,2.6,11,None
+574843,Nina,Thompson,emp574843@nexaworks.io,Design,UI Designer,San Francisco,2019-08-18,189294,Terminated,3.9,18,None
+310647,Lucas,Walker,emp310647@nexaworks.io,Marketing,Growth Analyst,Toronto,2022-09-13,145516,Active,3.7,21,None
+844858,Marcus,Clark,emp844858@nexaworks.io,Product,Product Director,London,2021-04-22,180926,Terminated,3.2,22,CISSP
+399817,Carlos,Chen,emp399817@nexaworks.io,HR,HR Business Partner,Berlin,2020-11-11,82910,Active,3.8,10,None
+253541,Noah,Garcia,emp253541@nexaworks.io,Engineering,Lead Engineer,New York,2017-04-15,196865,Contract,3.5,20,CISSP
+335203,Maria,Martinez,emp335203@nexaworks.io,Data,Analytics Manager,San Francisco,2017-08-31,188935,Terminated,3.7,13,GCP
+926394,Ryan,Robinson,emp926394@nexaworks.io,Finance,Financial Analyst,San Francisco,2015-02-23,120887,Contract,2.2,8,None
+891787,Sofia,Lewis,emp891787@nexaworks.io,QA,Test Lead,Toronto,2023-09-15,105724,Active,3.3,4,GCP
+142608,Nadia,Davis,emp142608@nexaworks.io,HR,People Ops Specialist,New York,2021-03-29,124268,On Leave,3.8,1,None
+588983,Mei,Müller,emp588983@nexaworks.io,Design,UX Designer,Berlin,2016-09-21,139575,Contract,2.4,16,CISSP
+475479,Chen,Lewis,emp475479@nexaworks.io,Product,Product Director,Remote,2020-11-22,112661,On Leave,2.7,6,GCP
+669460,Elena,Brown,emp669460@nexaworks.io,Data,Analytics Manager,San Francisco,2016-01-12,146593,Active,3.5,20,CISSP
+597923,Layla,Young,emp597923@nexaworks.io,Data,Data Analyst,Austin,2016-04-14,145703,Terminated,3.9,8,PMP
+815706,Kevin,Nguyen,emp815706@nexaworks.io,Finance,Finance Manager,San Francisco,2023-12-06,84720,On Leave,2.7,17,CISSP
+567200,Priya,Chen,emp567200@nexaworks.io,Operations,Operations Analyst,San Francisco,2018-04-29,105465,Active,4.0,18,CISSP
+107686,Kevin,Clark,emp107686@nexaworks.io,Product,Senior PM,New York,2022-07-08,110882,On Leave,3.9,21,Scrum Master
+883171,Maria,Chen,emp883171@nexaworks.io,Design,UX Designer,New York,2020-02-24,141957,Active,2.8,9,CISSP
+173863,Ahmed,Garcia,emp173863@nexaworks.io,QA,Test Lead,Austin,2017-11-25,161858,Active,2.6,18,PMP
+772580,Chen,Nguyen,emp772580@nexaworks.io,QA,QA Engineer,New York,2023-06-24,208513,Contract,4.0,17,Scrum Master
+403915,Nina,Ali,emp403915@nexaworks.io,Sales,Account Executive,New York,2018-02-27,169734,Active,2.4,5,GCP
+935474,Nadia,Nguyen,emp935474@nexaworks.io,Data,Data Scientist,San Francisco,2022-02-10,92768,Contract,4.3,1,CISSP
+682032,Elena,Brown,emp682032@nexaworks.io,Design,UX Designer,London,2015-06-21,56318,Active,2.8,12,None
+532699,Carlos,Brown,emp532699@nexaworks.io,Data,Data Engineer,San Francisco,2016-10-21,103232,Contract,3.1,4,AWS
+803571,Carlos,Garcia,emp803571@nexaworks.io,QA,QA Engineer,San Francisco,2024-07-19,198878,Active,2.5,7,CPA
+446922,Chen,Brown,emp446922@nexaworks.io,Finance,Senior Analyst,New York,2022-07-12,116481,On Leave,3.6,11,CPA
+572536,Sofia,Johnson,emp572536@nexaworks.io,Finance,Controller,Singapore,2022-10-11,208136,Active,3.9,11,None
+923824,David,Tanaka,emp923824@nexaworks.io,Marketing,Brand Manager,New York,2018-02-07,149237,Terminated,4.1,15,CPA
+476167,Kevin,Williams,emp476167@nexaworks.io,Sales,Solutions Engineer,Sydney,2021-03-09,83529,Contract,3.8,18,None
+376021,Ethan,Hall,emp376021@nexaworks.io,Product,Product Manager,Berlin,2015-03-18,187953,Contract,4.3,13,None
+138436,Alex,Hall,emp138436@nexaworks.io,Data,Data Scientist,San Francisco,2021-02-04,196473,Active,2.2,10,AWS
+587274,Aisha,Young,emp587274@nexaworks.io,Data,Data Analyst,London,2019-06-14,150385,Terminated,3.6,22,AWS
+893988,Amara,Tanaka,emp893988@nexaworks.io,Data,Data Engineer,Berlin,2020-01-02,96739,Active,4.1,12,PMP
+329448,Mei,Brown,emp329448@nexaworks.io,Operations,Project Coordinator,San Francisco,2015-09-15,124299,Active,4.9,17,None
+506945,Daniel,Davis,emp506945@nexaworks.io,Operations,Scrum Master,Toronto,2015-07-10,65460,On Leave,4.0,9,CISSP
+697856,Alex,Kim,emp697856@nexaworks.io,Design,Visual Designer,San Francisco,2022-05-01,154226,Terminated,3.3,17,None
+494609,Alex,Williams,emp494609@nexaworks.io,Marketing,Brand Manager,Berlin,2018-12-16,145448,On Leave,2.6,15,AWS
+341162,Layla,Garcia,emp341162@nexaworks.io,Product,Product Director,New York,2017-05-16,94384,Active,3.5,22,None
+534753,James,Ali,emp534753@nexaworks.io,Finance,Financial Analyst,Berlin,2020-05-26,180518,Active,2.5,2,AWS
+701344,Omar,Patel,emp701344@nexaworks.io,QA,Test Lead,New York,2016-07-05,189386,On Leave,3.5,6,None
+288783,Elena,Kim,emp288783@nexaworks.io,Data,Analytics Manager,Toronto,2021-09-20,202745,Contract,2.5,7,CPA
+735988,Omar,Hall,emp735988@nexaworks.io,Operations,Scrum Master,Sydney,2016-11-29,112504,On Leave,2.3,6,CISSP
+377370,Liam,Lewis,emp377370@nexaworks.io,Design,Design Lead,New York,2020-02-01,209821,Active,4.0,17,GCP
+966662,Maria,Walker,emp966662@nexaworks.io,Design,UX Designer,Remote,2016-12-27,179746,On Leave,3.7,17,Scrum Master
+197716,Fatima,Lewis,emp197716@nexaworks.io,Operations,Project Coordinator,Singapore,2021-10-07,196370,Terminated,4.1,14,None
+145548,Yuki,Hall,emp145548@nexaworks.io,Data,Analytics Manager,Singapore,2017-07-28,181385,Active,2.1,19,Scrum Master
+546157,Fatima,Davis,emp546157@nexaworks.io,Design,Design Lead,London,2020-05-08,115951,On Leave,3.6,7,PMP
+843596,Daniel,Brown,emp843596@nexaworks.io,Engineering,DevOps Engineer,London,2020-11-10,85888,Active,3.2,11,GCP
+479867,Layla,Davis,emp479867@nexaworks.io,Product,Senior PM,Austin,2019-10-12,208451,Active,3.4,22,GCP
+891645,Nina,Walker,emp891645@nexaworks.io,Marketing,Brand Manager,Austin,2021-03-11,201161,Active,4.8,16,None
+421549,Aisha,Robinson,emp421549@nexaworks.io,QA,Quality Manager,Berlin,2023-09-07,159367,Terminated,3.3,6,Scrum Master
+324875,Marcus,Patel,emp324875@nexaworks.io,Data,Analytics Manager,Singapore,2023-10-25,143719,On Leave,2.0,6,GCP
+766764,Aisha,Nguyen,emp766764@nexaworks.io,Engineering,Software Engineer,New York,2024-03-26,93096,Active,2.5,3,PMP
+859687,Maria,Chen,emp859687@nexaworks.io,HR,HR Manager,San Francisco,2021-11-19,191578,On Leave,3.6,21,CPA
+560295,Marcus,Ali,emp560295@nexaworks.io,Engineering,Senior Engineer,London,2024-07-15,190830,On Leave,3.4,20,AWS
+806765,Carlos,Martinez,emp806765@nexaworks.io,Engineering,Lead Engineer,Remote,2017-09-06,55075,Active,3.6,12,GCP
+525146,Amara,Walker,emp525146@nexaworks.io,QA,Test Lead,New York,2020-10-21,59028,Active,3.4,19,None
+464354,Ethan,Johnson,emp464354@nexaworks.io,Sales,Sales Manager,Austin,2021-10-19,105993,Active,3.1,9,AWS
+526911,Carlos,Walker,emp526911@nexaworks.io,Data,Data Analyst,New York,2021-04-07,73975,On Leave,2.8,19,None
+827912,David,Robinson,emp827912@nexaworks.io,Operations,Scrum Master,Singapore,2021-04-25,181780,Contract,3.4,22,CPA
+715332,Marcus,Ali,emp715332@nexaworks.io,Engineering,Principal Engineer,Remote,2016-04-21,122585,Terminated,4.3,11,GCP
+470248,Ahmed,Thompson,emp470248@nexaworks.io,Data,Data Analyst,San Francisco,2022-11-10,124035,Active,3.8,3,CISSP
+287155,Sera,Brown,emp287155@nexaworks.io,Operations,Ops Manager,Remote,2018-12-19,112295,Terminated,3.8,16,None
+346269,Kevin,Young,emp346269@nexaworks.io,Marketing,Growth Analyst,San Francisco,2017-04-26,115085,Active,3.1,12,AWS
+916776,Nadia,Tanaka,emp916776@nexaworks.io,Product,Product Manager,London,2015-11-18,184149,Active,2.5,12,None
+616256,Carlos,Martinez,emp616256@nexaworks.io,QA,Quality Manager,Remote,2020-07-03,102938,On Leave,2.6,8,AWS
+156778,Sofia,Robinson,emp156778@nexaworks.io,Data,Analytics Manager,Dubai,2020-05-13,196759,Contract,4.0,4,CISSP
+582418,David,Nguyen,emp582418@nexaworks.io,Finance,Financial Analyst,San Francisco,2015-02-18,110247,Active,3.5,20,None
+296243,Fatima,Brown,emp296243@nexaworks.io,Data,Data Scientist,San Francisco,2017-08-29,125623,Active,2.5,14,None
+482812,Mei,Ali,emp482812@nexaworks.io,HR,People Ops Specialist,London,2020-01-21,102156,On Leave,3.6,4,None
+943146,James,Chen,emp943146@nexaworks.io,Marketing,Brand Manager,New York,2019-04-10,106396,Contract,4.5,14,CPA
+241003,Nadia,Hall,emp241003@nexaworks.io,Data,Data Scientist,San Francisco,2023-10-22,182564,On Leave,4.8,2,GCP
+203782,Carlos,Nguyen,emp203782@nexaworks.io,Design,UX Designer,Austin,2017-06-01,121660,Active,2.4,12,CISSP
+684572,Mei,Young,emp684572@nexaworks.io,Sales,Business Dev Rep,New York,2015-03-23,162940,Contract,3.5,7,CISSP
+283017,Layla,Müller,emp283017@nexaworks.io,Sales,Business Dev Rep,Dubai,2018-08-24,188809,Active,2.3,15,AWS
+275715,Chen,Chen,emp275715@nexaworks.io,Finance,Finance Manager,Austin,2022-01-29,204851,Active,3.5,11,None
+428709,Nadia,Nguyen,emp428709@nexaworks.io,Finance,Controller,Dubai,2022-12-19,125116,Contract,2.8,19,CISSP
+572161,Mei,Davis,emp572161@nexaworks.io,HR,Recruiter,New York,2017-01-23,61055,Active,3.0,3,None
+275018,Ahmed,Lewis,emp275018@nexaworks.io,HR,HR Business Partner,New York,2016-01-27,71722,Contract,4.1,3,Scrum Master
+375201,Amara,Müller,emp375201@nexaworks.io,QA,Test Lead,San Francisco,2015-12-12,157195,Active,3.1,15,AWS
+237654,Noah,Walker,emp237654@nexaworks.io,Data,Data Engineer,San Francisco,2015-04-28,64215,Active,2.7,9,CISSP
+566453,Alex,Hall,emp566453@nexaworks.io,Design,UI Designer,Berlin,2021-08-17,174680,Terminated,2.2,14,CISSP
+770864,Fatima,Davis,emp770864@nexaworks.io,Data,Data Scientist,Austin,2018-11-23,181262,Active,2.2,5,None
+111068,Nina,Johnson,emp111068@nexaworks.io,Engineering,DevOps Engineer,San Francisco,2024-02-22,90730,Active,3.1,16,CPA
+414164,Fatima,Walker,emp414164@nexaworks.io,Engineering,Principal Engineer,London,2023-12-13,131787,Active,2.4,14,GCP
+362035,Fatima,Ali,emp362035@nexaworks.io,Design,Visual Designer,San Francisco,2024-04-16,154184,Active,2.7,17,None
+398505,Noah,Young,emp398505@nexaworks.io,Data,Data Scientist,San Francisco,2019-08-19,104283,Terminated,3.7,15,None
+834498,Nina,Johnson,emp834498@nexaworks.io,QA,Automation Engineer,New York,2017-02-08,139054,Active,3.0,6,Scrum Master
+395818,Liam,Thompson,emp395818@nexaworks.io,Sales,Sales Manager,New York,2023-01-08,169928,Active,3.3,14,None
+923892,Ryan,Williams,emp923892@nexaworks.io,Operations,Ops Manager,San Francisco,2020-03-14,63319,Contract,2.9,2,None
+913331,Kevin,Johnson,emp913331@nexaworks.io,HR,HR Business Partner,San Francisco,2021-02-02,178246,Active,4.0,4,None
+503489,Ryan,Garcia,emp503489@nexaworks.io,Operations,Project Coordinator,New York,2023-04-10,63784,Terminated,4.8,17,None
+595793,Priya,Davis,emp595793@nexaworks.io,HR,People Ops Specialist,Remote,2018-08-16,96579,On Leave,3.3,16,None
+308376,Daniel,Clark,emp308376@nexaworks.io,Finance,Financial Analyst,Remote,2022-06-23,112091,Active,3.3,11,PMP
+275490,Marcus,Young,emp275490@nexaworks.io,Sales,Account Executive,Singapore,2019-06-10,118724,Active,3.6,5,None
+908239,David,Patel,emp908239@nexaworks.io,Product,Senior PM,New York,2016-10-07,186050,On Leave,3.4,2,None
+775885,Yuki,Robinson,emp775885@nexaworks.io,Design,UX Designer,Singapore,2016-05-30,182885,Contract,3.6,7,PMP
+822730,Zara,Robinson,emp822730@nexaworks.io,HR,People Ops Specialist,San Francisco,2023-02-15,90319,Active,5.0,18,None
+669097,Kevin,Young,emp669097@nexaworks.io,Operations,Project Coordinator,Austin,2021-05-10,103923,Contract,2.8,18,AWS
+172222,Yuki,Robinson,emp172222@nexaworks.io,Data,Data Engineer,Sydney,2020-01-15,132508,On Leave,3.2,1,CISSP
+497455,Nina,Martinez,emp497455@nexaworks.io,Design,UX Designer,Toronto,2021-12-13,150440,Terminated,3.5,7,CISSP
+816412,David,Garcia,emp816412@nexaworks.io,Operations,Project Coordinator,San Francisco,2021-11-16,129220,Terminated,2.9,4,CISSP
+790897,Priya,Patel,emp790897@nexaworks.io,Product,Product Manager,New York,2024-05-13,89019,Active,3.5,19,GCP
+789880,Chen,Johnson,emp789880@nexaworks.io,Operations,Ops Manager,San Francisco,2015-07-21,151037,Terminated,3.6,7,CPA
+972496,Yuki,Patel,emp972496@nexaworks.io,Product,Associate PM,Dubai,2023-12-25,70912,Contract,2.7,20,None
+654718,Lucas,Garcia,emp654718@nexaworks.io,Engineering,Software Engineer,New York,2024-05-10,134666,Active,4.3,4,None
+657487,Amara,Walker,emp657487@nexaworks.io,HR,Recruiter,Remote,2017-03-02,192938,On Leave,2.9,14,Scrum Master
+903506,Alex,Garcia,emp903506@nexaworks.io,QA,Quality Manager,Toronto,2022-07-25,175250,Active,2.6,6,AWS
+676680,Nina,Thompson,emp676680@nexaworks.io,HR,People Ops Specialist,Remote,2022-05-17,96465,Active,2.5,12,GCP
+901305,Ahmed,Walker,emp901305@nexaworks.io,HR,People Ops Specialist,London,2021-10-28,118103,Active,3.2,9,None
+574379,James,Müller,emp574379@nexaworks.io,Operations,Scrum Master,London,2015-01-01,64086,Active,4.3,8,None
+997287,Nina,Hall,emp997287@nexaworks.io,Finance,Financial Analyst,Remote,2023-08-27,127340,On Leave,3.3,19,AWS
+198867,Carlos,Müller,emp198867@nexaworks.io,Engineering,Principal Engineer,London,2018-12-27,95922,Active,3.8,3,GCP
+696707,Zara,Hall,emp696707@nexaworks.io,Marketing,Marketing Manager,Singapore,2023-02-11,140116,Active,3.9,4,None
+139186,Fatima,Garcia,emp139186@nexaworks.io,QA,Automation Engineer,Dubai,2015-11-18,69659,Active,4.0,8,PMP
+764678,Ethan,Williams,emp764678@nexaworks.io,HR,HR Business Partner,New York,2018-06-02,192463,On Leave,3.1,11,CISSP
